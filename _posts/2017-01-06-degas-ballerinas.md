@@ -1,8 +1,8 @@
 ---
 description: Has been idle for a year and a half and now in progress again. 48x60 1/5/17
 author: []
-datePublished: '2017-01-06T22:43:38.493Z'
-dateModified: '2017-01-06T22:43:38.108Z'
+datePublished: '2017-01-06T22:43:42.345Z'
+dateModified: '2017-01-06T22:43:41.865Z'
 title: Degas Ballerinas
 publisher: {}
 via: {}
