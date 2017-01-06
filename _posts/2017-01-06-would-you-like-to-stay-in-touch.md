@@ -10,8 +10,8 @@ keywords: []
 description: Do you social?
 app_links: []
 title: Would you like to stay in touch?
-datePublished: '2017-01-06T22:45:14.598Z'
-dateModified: '2017-01-06T22:45:14.026Z'
+datePublished: '2017-01-06T22:45:28.839Z'
+dateModified: '2017-01-06T22:45:28.264Z'
 via: {}
 inFeed: false
 sourcePath: _posts/2017-01-06-would-you-like-to-stay-in-touch.md
