@@ -35,6 +35,9 @@ navigation:
   - name: stay in touch
     id: 38a2978c-eb08-4ab7-aefc-e3e380b4339b
     type: content
+  - name: artist statement
+    id: 6f17845e-f073-46b2-b4bc-6641db1877c5
+    type: content
 title: a collection of possibilities
 content: []
 description: by allyn reid
