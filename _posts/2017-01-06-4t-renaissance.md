@@ -1,8 +1,8 @@
 ---
 description: Study of Botticelli's Primavera with contribution from Colt. 48x 60. 12/28/16
 author: []
-datePublished: '2017-01-06T22:43:16.607Z'
-dateModified: '2017-01-06T22:43:16.162Z'
+datePublished: '2017-01-06T22:43:18.980Z'
+dateModified: '2017-01-06T22:43:18.574Z'
 title: 4T Renaissance
 publisher: {}
 via: {}
