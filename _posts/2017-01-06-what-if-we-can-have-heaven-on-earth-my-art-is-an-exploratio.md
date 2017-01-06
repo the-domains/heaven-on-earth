@@ -5,8 +5,8 @@ title: >-
   source normally buried by debris but always pulsing. Art is an exercise of
   being exposed. Heaven on earth is a concept that is hard to acknowledge. Art
   is the permission.
-datePublished: '2017-01-06T16:20:28.176Z'
-dateModified: '2017-01-06T16:20:24.549Z'
+datePublished: '2017-01-06T22:48:30.637Z'
+dateModified: '2017-01-06T22:48:29.925Z'
 publisher: {}
 author: []
 inFeed: false
@@ -17,10 +17,10 @@ description: >
   signatures are imprinted to ideas. Facilitation of its discovery and
   expression is the vehicle but witnessing magic is my fuel.
 via: {}
-starred: false
-datePublishedOriginal: '2017-01-06T15:51:36.396Z'
 sourcePath: >-
   _posts/2017-01-06-what-if-we-can-have-heaven-on-earth-my-art-is-an-exploratio.md
+starred: false
+datePublishedOriginal: '2017-01-06T15:51:36.396Z'
 url: what-if-we-can-have-heaven-on-earth-my-art-is-an-exploratio/index.html
 _type: Article
 _context: 'http://schema.org'
