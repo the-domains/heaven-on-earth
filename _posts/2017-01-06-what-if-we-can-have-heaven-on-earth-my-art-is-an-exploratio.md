@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-01-06T15:52:14.639Z'
-dateModified: '2017-01-06T15:52:12.216Z'
+datePublished: '2017-01-06T15:56:12.329Z'
+dateModified: '2017-01-06T15:55:44.840Z'
 publisher: {}
 author: []
 inFeed: false
@@ -13,7 +13,7 @@ description: >-
   being exposed. Heaven on earth is a concept that is hard to acknowledge. Art
   is the permission.
 via: {}
-starred: false
+starred: true
 datePublishedOriginal: '2017-01-06T15:51:36.396Z'
 sourcePath: >-
   _posts/2017-01-06-what-if-we-can-have-heaven-on-earth-my-art-is-an-exploratio.md
