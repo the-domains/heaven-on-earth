@@ -29,14 +29,14 @@ navigation:
   - name: prima portfolio
     id: 9f1330c1-3344-4b4a-85c5-379a610d887e
     type: content
+  - name: artist statement
+    id: 6f17845e-f073-46b2-b4bc-6641db1877c5
+    type: content
   - name: about
     id: 75a7fb72-6603-428a-a15d-cb79e666f63e
     type: content
   - name: stay in touch
     id: 38a2978c-eb08-4ab7-aefc-e3e380b4339b
-    type: content
-  - name: artist statement
-    id: 6f17845e-f073-46b2-b4bc-6641db1877c5
     type: content
 title: a collection of possibilities
 content: []
