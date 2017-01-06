@@ -1,6 +1,11 @@
+name: heaven on earth
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/81e09d9e-3190-4384-9863-df226fdd4abb.png
+layout_spectrum: 0.1227991660783012
 typography_spectrum: 0.40454643990447986
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#000000'
@@ -12,25 +17,17 @@ color:
   lightness: 0.6171906251763685
   saturation: 0.30330376346125315
   rhythmicContrast: 0.3103373409128093
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.1227991660783012
+title: a collection of possibilities
+description: by allyn reid
 author:
   name: Allyn Reid
   url: www.heavenonearthtv.com
   email: allyntoday@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/81e09d9e-3190-4384-9863-df226fdd4abb.png
-name: heaven on earth
-url: 'http://www.heavenonearthtv.com'
+content_rating:
+  adult: false
 navigation:
   - name: prima portfolio
     id: 9f1330c1-3344-4b4a-85c5-379a610d887e
-    type: content
-  - name: artist statement
-    id: 9ca60ad7-3e54-4123-acd7-c691026e1e14
     type: content
   - name: about
     id: 75a7fb72-6603-428a-a15d-cb79e666f63e
@@ -38,6 +35,5 @@ navigation:
   - name: stay in touch
     id: 38a2978c-eb08-4ab7-aefc-e3e380b4339b
     type: content
-title: a collection of possibilities
 content: []
-description: by allyn reid
+github: true
