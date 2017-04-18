@@ -5,8 +5,8 @@ title: >-
   source normally buried by debris but always pulsing. Art is an exercise of
   being exposed. Heaven on earth is a concept that is hard to acknowledge. Art
   is the permission.
-datePublished: '2017-04-18T20:09:07.021Z'
-dateModified: '2017-04-18T20:09:06.023Z'
+datePublished: '2017-04-18T20:09:11.053Z'
+dateModified: '2017-04-18T20:09:09.313Z'
 publisher: {}
 author: []
 inFeed: false
