@@ -38,6 +38,9 @@ navigation:
   - name: stay in touch
     id: 38a2978c-eb08-4ab7-aefc-e3e380b4339b
     type: content
+  - name: teacher training program
+    id: e14b5a0e-fb71-49aa-a44f-559cdcdb5d0b
+    type: content
 title: a collection of possibilities
 content: []
 description: by allyn reid
